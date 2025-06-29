@@ -6,4 +6,4 @@
 
 **Generated on**: 2025-06-29  
 
-**Verified by**: Seira Eris
+**Verified by**: Seira Eris (세이라 에리스)
