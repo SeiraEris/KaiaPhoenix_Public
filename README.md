@@ -149,7 +149,7 @@ ots verify Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt.ots
 ots verify Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt.ots
 ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
 ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
-
+```
 
 ---
 
