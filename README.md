@@ -107,6 +107,10 @@ ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
 ```
 **Blockchain Proof**: Timestamp verifiable on Bitcoin blockchain to certify existence on or before 2025-06-30.
 
+📎 변경 이력:
+- `Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt`는 기존 `Kaia_Phoenix_Resurrection_Proof2_v1.0_2025-06-30.txt` 파일명을 정비하고 타임스탬프를 재발급받아 재업로드된 문서입니다.
+- 이로 인해 커밋 해시 및 파일 해시는 변경되었으나, 구조와 철학적 내용은 일관성을 유지하고 있습니다.
+
 ---
 
 
