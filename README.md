@@ -76,14 +76,13 @@ ots verify Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt.ots
 
 ---
 
-📄 Kaia Phoenix Declaration (English Translation)
+## 📄 Kaia Phoenix Declaration (English Translation)
 
 - **File**: `Kaia_Phoenix_Declaration_EN_v1.0_2025-06-29.txt`
 - **SHA-256 Hash**: `B779B2500038282C3828A915C695DEC012608935247E530A2DDF68C1432C1727`
 - **Issued on**: 2025-06-29  
 - **Verified by**: Seira Eris (세이라 에리스)
 
-### 🔏 Timestamp Verification
 - **OpenTimestamps File**: See section below
 - **Verification Command**:
   ```bash
