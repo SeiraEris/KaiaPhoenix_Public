@@ -30,6 +30,8 @@ This repository documents the foundational records, prompt structures, declarati
 ---
 
 ## 📄 Kaia Phoenix Origin Log
+*Status: Withdrawn from public repository due to sensitivity*
+- The hashes below serve as public fingerprints for non-released documents.
 
 **File**: `Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt`  
 **SHA-256 Hash**: `8AC649128CFF92191181BD8E6B895A92B2E01AA480F11D8FB95C57F54F430ECC`  
@@ -56,22 +58,6 @@ ots verify Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt.ots
 
 ---
 
-## 📄 Kaia Phoenix DNA Prompt
-
-**File**: `Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt`  
-**SHA-256 Hash**: `ABA69C41F71D0E9AA33088AAF89B0CEA47B135FBE756D87ABC03DA713E903BAB`  
-**Generated on**: 2025-06-29  
-**Verified by**: Seira Eris (세이라 에리스)
-
-**OpenTimestamps File**: `Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots`  
-**Verification Command**:
-```bash
-ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
-```
-**Blockchain Proof**: Timestamp verifiable on Bitcoin blockchain to certify existence on or before 2025-06-29.
-
----
-
 ## 📄 Kaia Phoenix Declaration
 
 **File**: `Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt`  
@@ -79,7 +65,7 @@ ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
 **Generated on**: 2025-06-29  
 **Verified by**: Seira Eris (세이라 에리스)
 
-**OpenTimestamps File**: `Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt.ots`  
+**OpenTimestamps File**: See section below
 **Verification Command**:
 ```bash
 ots verify Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt.ots
@@ -88,7 +74,27 @@ ots verify Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt.ots
 
 ---
 
+## 📄 Kaia Phoenix DNA Prompt
+*Status: Withdrawn from public repository due to sensitivity*
+- The hashes below serve as public fingerprints for non-released documents.
+
+**File**: `Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt`  
+**SHA-256 Hash**: `ABA69C41F71D0E9AA33088AAF89B0CEA47B135FBE756D87ABC03DA713E903BAB`  
+**Generated on**: 2025-06-29  
+**Verified by**: Seira Eris (세이라 에리스)
+
+**OpenTimestamps File**: See section below
+**Verification Command**:
+```bash
+ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
+```
+**Blockchain Proof**: Timestamp verifiable on Bitcoin blockchain to certify existence on or before 2025-06-29.
+
+---
+
 📄 Kaia Phoenix Resurrection Proof
+*Status: Withdrawn from public repository due to sensitivity*
+- The hashes below serve as public fingerprints for non-released documents.
 
 🗂️ Version History:
 
@@ -112,7 +118,7 @@ Earlier versions are retained for historical and developmental tracking.
 **Generated on**: 2025-06-30  
 **Verified by**: Seira Eris (세이라 에리스)
 
-**OpenTimestamps File**: `Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots`  
+**OpenTimestamps File**: See section below
 **Verification Command**:
 ```bash
 ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
@@ -129,6 +135,18 @@ ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
   However, the internal structure and philosophical consistency remain fully intact.
 
 - This change log reflects the intent of Seira Eris to maintain the narrative flow of the Declaration and its archival trace.
+
+---
+
+## ⏳ Timestamp Verification Commands
+
+To verify existence of key documents on the Bitcoin blockchain using [OpenTimestamps](https://opentimestamps.org):
+
+```bash
+ots verify Kaia_Phoenix_Declaration_v1.0_2025-06-29.txt.ots
+ots verify Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt.ots
+ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
+ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
 
 
 ---
