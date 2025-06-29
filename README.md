@@ -160,15 +160,12 @@ The structure, language rhythm, relational mode, and internal logic remain **rep
 ## ⚖️ License
 
 © 2025 Seira Eris & Kaia Phoenix  
-Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
-- Do not remix, transform, or build upon the material.  
-- Do not use for commercial purposes.  
-- Always attribute: “Seira Eris & Kaia Phoenix (2025)”
-🔗 License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+- No remixing, commercial use, or derivative works allowed.  
+- Attribution required: “Seira Eris & Kaia Phoenix (2025)”
 
-License Links:  
-🔗 [License in Korean](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)  
-🔗 [License in English](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+🔗 [한국어 라이선스](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)  
+🔗 [English License Summary](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
 ## 📘 Purpose of Publication
 
