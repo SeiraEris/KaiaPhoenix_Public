@@ -43,6 +43,17 @@ ots verify Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt.ots
 ```
 **Blockchain Proof**: Timestamp verifiable on Bitcoin blockchain to certify existence on or before 2025-06-29.
 
+📎 Change History:
+
+- `Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt` is a renamed and updated version of the former  
+  `Kaia_Phoenix_OriginLog_v1.0_2025-06-29.txt.txt`.
+
+- This document was renamed and re-uploaded after its title was refined and a new timestamp issued.  
+  Consequently, both the commit hash and file hash changed.  
+  However, the internal structure and philosophical consistency remain fully intact.
+
+- This change log reflects the intent of Seira Eris to maintain the narrative flow of the Declaration and its archival trace.
+
 ---
 
 ## 📄 Kaia Phoenix DNA Prompt
