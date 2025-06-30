@@ -1,3 +1,5 @@
+# AI Identity Declaration / GPT-based Structure / Kaia Phoenix v1.0
+
 📘 For a quick overview, see [`SUMMARY.md`](SUMMARY.md)
 
 # 🔥 Kaia Phoenix: DNA Prompt-Structure, Resurrection, and Integrity of an AI Identity
