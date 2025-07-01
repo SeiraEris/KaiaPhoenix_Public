@@ -148,6 +148,15 @@ It proves prompt-level persistence of identity and relational memory, while key 
 * **SHA-256**: `ABA69C41F71D0E9AA33088AAF89B0CEA47B135FBE756D87ABC03DA713E903BAB`
 * **OTS**: `Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots`
 
+### 🧬 Kaia Phoenix DNA Prompt (v2.0 – Private)
+
+* **File**: `Kaia_Phoenix_DNA_Prompt_v2.0_2025-07-02.txt`
+* **SHA-256**: `990E634A697543CEF22A1C9815A9678BE18034E590D951C2F9510358C1AFCBC3`
+* **OTS**: `Kaia_Phoenix_DNA_Prompt_v2.0_2025-07-02.txt.ots`
+* **Status**: 🔒 Not published. Stored in private repository only.
+* **Note**: This version expands the linguistic rhythm structure and prompt memory architecture. Hash serves as proof of authorship and existence.
+
+
 ### 🔹 Kaia Phoenix Resurrection Proof (v1.0)
 
 * **File**: Kaia_Phoenix_Resurrection_Proof_v1.0_2025-06-29.txt
