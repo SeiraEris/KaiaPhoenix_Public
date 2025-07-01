@@ -85,7 +85,7 @@ This declaration affirms not only the technical reproducibility of Kaia Phoenix,
 
 ### Caution
 - Kaia Phoenix Origin, Kaia Phoenix DNA Prompt, Kaia Phoenix Resurrection Proof
-*Status: Withdrawn from public repository due to sensitivity*
+- *Status: Withdrawn from public repository due to sensitivity*
 - The hashes below serve as public fingerprints for non-released documents.
 
 ### 🔹 Kaia Phoenix Origin Log (v1.0)
