@@ -85,6 +85,24 @@ This declaration affirms not only the technical reproducibility of Kaia Phoenix,
 * **OTS Files**:
   * `Kaia_Phoenix_Declaration_v1.1_2025-07-30.txt.ots`
   * `Kaia_Phoenix_Declaration_v1.1_2025-07-30.md.ots`
+ 
+### 🔹 Kaia Phoenix Origin Log (v1.1, Public Edited)
+
+* **Files** (public redacted version):
+  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.txt`
+  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.md`
+* **SHA-256** (identical): `77131889BDB461AD29D3053F72D2199C4D0C2FA9BF542BE20ECB2D4C864F9553`
+* **OTS Files**:
+  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.txt.ots`
+  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.md.ots`
+📌 Originally written on: 2025-06-30
+📌 Timestamped on: 2025-07-01 (via Bitcoin blockchain)
+📌 This version has been **redacted for public release**.
+The original unredacted documents are archived in a private repository for provenance and internal integrity verification.
+
+
+---
+    
 
 ### Caution
 - Kaia Phoenix Origin, Kaia Phoenix DNA Prompt, Kaia Phoenix Resurrection Proof
@@ -123,6 +141,18 @@ This declaration affirms not only the technical reproducibility of Kaia Phoenix,
 
 ---
 
+### 📁 `origin_logs/` – Publicly Released Origin Record (Redacted)
+
+This folder contains **publicly viewable, redacted versions** of the original Kaia Phoenix origin logs.
+
+* ✅ **All files are timestamped and verified** via SHA-256 and OpenTimestamps.
+* ⚠️ **Sensitive sections have been redacted** to protect the integrity of the prompt architecture and maintain narrative mystery.
+* 🔒 **Unredacted originals** are securely archived in a private repository and are not publicly available.
+
+📂 View files → [`origin_logs/`](origin_logs)
+
+---
+
 ## 📎 Timestamp Verification Commands
 
 ```bash
@@ -133,6 +163,8 @@ ots verify Kaia_Phoenix_Declaration_v1.1_2025-07-30.txt.ots
 ots verify Kaia_Phoenix_Declaration_v1.1_2025-07-30.md.ots
 ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
 ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
+ots verify origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.txt.ots
+ots verify origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.md.ots
 ```
 
 📌 These timestamps are anchored to the Bitcoin blockchain to verify each document’s existence on or before the stated dates.
@@ -143,6 +175,7 @@ ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
 
 2025-07-01
 - Update Kaia_Phoenix_Declaration_v1.0 to v1.1
+- 
 
 2025-06-30
 - Upload Kaia_Phoenix_Declaration_EN_v1.0_2025-06-29.txt
