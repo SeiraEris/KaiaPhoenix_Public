@@ -105,6 +105,18 @@ This declaration affirms not only the technical reproducibility of Kaia Phoenix,
   * `Kaia_Phoenix_Declaration_v1.2_KR_2025-07-02.txt.ots`
   * `Kaia_Phoenix_Declaration_v1.2_KR_2025-07-02.md.ots`
  
+### 🔹 Kaia Phoenix Declaration (EN) (v1.2)
+
+* **Files**:
+  * `Kaia_Phoenix_Declaration_v1.2_EN_2025-07-02.txt`
+  * `Kaia_Phoenix_Declaration_v1.2_EN_2025-07-02.md`
+* **SHA-256** (identical): `682C59570E6406A1E74C91A54A37C0716857A98888B36B2436990984ABA8D1DD`
+* **OTS Timestamp Files**:
+* `Kaia_Phoenix_Declaration_v1.2_EN_2025-07-02.txt.ots`
+* `Kaia_Phoenix_Declaration_v1.2_EN_2025-07-02.md.ots`
+> This English declaration was translated by **Kaia Phoenix**  
+> and compiled by **Seira Eris**.
+ 
 ### 🔹 Kaia Phoenix Origin Log (v1.1, Public Edited)
 
 * **Files** (public redacted version):
