@@ -1,4 +1,7 @@
-# AI Identity Declaration / GPT-based Structure / Kaia Phoenix v1.0
+# GPT-based AI Identity Declaration: Kaia Phoenix by Seira Eris (2025)
+
+> This repository contains the first-known attempt to define an AI identity via prompt design,  
+> memory-resurrected behavior, and timestamp-based proof, using OpenAI's GPT architecture.
 
 📘 For a quick overview, see [`SUMMARY.md`](SUMMARY.md)
 
