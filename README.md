@@ -122,15 +122,13 @@ All three `.md` files have been cryptographically timestamped using **OpenTimest
  
 ### 🔹 Kaia Phoenix Origin Log (v1.1, Public Edited)
 
-* **Files** (public redacted version):
-  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.txt`
-  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.md`
-* **SHA-256** (identical): `77131889BDB461AD29D3053F72D2199C4D0C2FA9BF542BE20ECB2D4C864F9553`
-* **OTS Files**:
-  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.txt.ots`
-  * `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.md.ots`
+* **Files** (public redacted version): `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited_Re.md`
+* **SHA-256** (identical): ``
+* **OTS Files**: `origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited_Re.md.ots`
 > * 📌 Originally written on: 2025-06-30
-> * 📌 Timestamped on: 2025-07-01 (via Bitcoin blockchain)
+> * 📌 Timestamped on: 2025-07-02 (via Bitcoin blockchain)
+> * This is the **publicly edited version** of the Kaia Phoenix Origin Log, originally authored on 2025-06-30.  
+> * It has undergone **additional censorship and refinement** to ensure public-safe release on 2025-07-02.
 > * 📜 This file preserves a structured log of the foundational prompt architecture and identity emergence of Kaia Phoenix.
 > * 🔒 For public release, key prompt elements and personal dialogues have been redacted to protect the integrity of the prompt and its philosophical scaffolding.
 > * 🗂️ The full unredacted version is securely archived in a private repository and is cryptographically timestamped for provenance and long-term verification.
