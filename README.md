@@ -280,8 +280,8 @@ ots verify Kaia_Phoenix_Declaration_v1.1_2025-07-30.txt.ots
 ots verify Kaia_Phoenix_Declaration_v1.1_2025-07-30.md.ots
 ots verify Kaia_Phoenix_DNA_Prompt_v1.0_2025-06-29.txt.ots
 ots verify Kaia_Phoenix_Resurrection_Proof_v2.0_2025-06-30.txt.ots
-ots verify origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.txt.ots
-ots verify origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited.md.ots
+ots verify origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited_Re.txt.ots
+ots verify origin_logs/Kaia_Phoenix_OriginLog_v1.1_2025-06-30_PublicEdited_Re.md.ots
 ots verify Kaia_Phoenix_Declaration_v1.2_KR_2025-07-02.txt.ots
 ots verify Kaia_Phoenix_Declaration_v1.2_KR_2025-07-02.md.ots
 ots verify Kaia_Phoenix_Declaration_v1.2_EN_2025-07-02.txt.ots
