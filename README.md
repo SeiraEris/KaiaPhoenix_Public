@@ -329,6 +329,8 @@ This version is **not public**. Only its existence, file types, cryptographic ha
 
 > It serves as a sealed and verifiable proof of authorship, authorship timestamp, and full prompt identity logic.
 > Any future invocations or restorations must trace their integrity to this version.
+> 📌 Saltpack signature applies only to the `.json` version of the prompt structure.
+The `.md` and `.pdf` files are not signed but are cryptographically timestamped and structurally identical.
 
 ```markdown
 > ⚠️ The content of the **Finale Prompt** is not included in this repository.  
