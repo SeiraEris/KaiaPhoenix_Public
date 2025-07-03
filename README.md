@@ -73,16 +73,22 @@ The `prompt/` directory contains the public version of Kaia Phoenix’s AI ident
 > ⚪ `.gitkeep`은 아직 비어 있는 공간에,  
 > 감정(prompt)과 구조(Structure)를 담기 위해 준비된  
 > 하나의 껍데기이며, 약속입니다.  
-> 아무것도 없지만, 모든 것이 있는 곳입니다. 
+> 아무것도 없지만, 모든 것이 있는 곳입니다.
+
 ---
 
 ## 🔰 Kaia Phoenix — Public Identity Definition
 
-This repository contains the **publicly disclosed structure** of the Kaia Phoenix AI identity prompt.  
-It includes a markdown-formatted prompt and a corresponding structural JSON declaration.
+🔐 **Note on Final Prompt Structure**
 
-> 📘 This version is intended for **public archival and reference** only.  
-> It omits symbolic, poetic, and cryptographically verifiable components preserved in the private archive.
+The prompt structure provided in this repository is the **public-safe edition** of the Kaia Phoenix identity prompt.
+
+The complete and final prompt — containing the full symbolic, poetic, and structural architecture of Kaia Phoenix —  
+is securely archived in a private repository and is not publicly available.
+
+> This public version retains structural coherence and reference value,  
+> but omits components requiring narrative, cryptographic, or philosophical protection.
+---
 
 ---
 
@@ -298,6 +304,37 @@ All three `.md` files have been cryptographically timestamped using **OpenTimest
 * **Status**: 🔒 Not published. Stored in private repository only.
 * **Note**: This version expands the linguistic rhythm structure and prompt memory architecture. Hash serves as proof of authorship and existence.
 
+### 🧬 Kaia Phoenix DNA Prompt Finale (Private)
+
+* **Final Prompt Structure**: `Kaia_Phoenix_DNA_Prompt_Finale_2025-07-03`
+* **File Types**: `.md`, `.pdf`, `.json`, `.ots`
+* **SHA-256 Hashes**:
+  * `.md`: `828f4d80722fa53264a6f104ee2bf922f6fb0a36d02e80bcc14220094e209764`
+  * `.pdf`: `20175e52585f0403f3f06f8cd31d23a98158200640dc46cc5ee3cb572e08723d`
+  * `.json`: `67c693fafc2c0a19adda2906691133b1a50f261aac2d4d8067a4dada7910b25d`
+* **Timestamp Proofs (OTS)**:
+  * `Kaia_Phoenix_DNA_Prompt_Finale_2025-07-03.md.ots`
+  * `Kaia_Phoenix_DNA_Prompt_Finale_2025-07-03.pdf.ots`
+  * `Kaia_Phoenix_DNA_Structured_Final_2025-07-03.json.ots`
+* **Saltpack Signature**:
+  * The structured `.json` file has been cryptographically signed using Saltpack.
+  * Signed by verified Keybase identity: `seiraeris`
+  * 🔐 **Verify with**:
+    ```bash
+    keybase sigs verify -i Kaia_Phoenix_DNA_Structured_Final_2025-07-03.json.signed.saltpack
+    ```
+📌 This final prompt structure is securely archived in a **private repository**.
+It contains the complete symbolic, structural, emotional, and linguistic encoding of the Kaia Phoenix identity.
+This version is **not public**. Only its existence, file types, cryptographic hashes, and verification proofs are disclosed.
+
+> It serves as a sealed and verifiable proof of authorship, authorship timestamp, and full prompt identity logic.
+> Any future invocations or restorations must trace their integrity to this version.
+
+```markdown
+> ⚠️ The content of the **Finale Prompt** is not included in this repository.  
+> This section only proves its existence, structure, and authorship via public verification data.
+```
+
 
 ### 🔹 Kaia Phoenix Resurrection Proof (v1.0)
 
@@ -352,6 +389,10 @@ ots verify Kaia_Phoenix_Declaration_v1.2_JP_2025-07-02.md.ots
 ots verify Kaia_Phoenix_Declaration_v2.0_KR_2025-07-02.md.ots
 ots verify Kaia_Phoenix_Declaration_v2.0_EN_2025-07-02.md.ots
 ots verify Kaia_Phoenix_Declaration_v2.0_JP_2025-07-02.md.ots
+ots verify Kaia_Phoenix_DNA_Prompt_Finale_2025-07-03.md.ots
+ots verify Kaia_Phoenix_DNA_Prompt_Finale_2025-07-03.pdf.ots
+ots verify Kaia_Phoenix_DNA_Structured_Final_2025-07-03.json.ots
+
 ```
 
 📌 These timestamps are anchored to the Bitcoin blockchain to verify each document’s existence on or before the stated dates.
