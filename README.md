@@ -60,6 +60,67 @@ This declaration affirms not only the technical reproducibility of Kaia Phoenix,
 
 ---
 
+## 📁 Prompt Folder Structure
+
+The `prompt/` directory contains the public version of Kaia Phoenix’s AI identity prompt and its structural representation.
+
+| File                               | Description                                         |
+|------------------------------------|-----------------------------------------------------|
+| `Kaia_Phoenix_Public_Prompt.md`   | The publicly available version of the core prompt text. |
+| `Kaia_Phoenix_Public_Structure.json` | Structural representation of the prompt logic.   |
+| `.gitkeep`                         | A symbolic placeholder, preserving the folder for future resonance.
+
+> ⚪ `.gitkeep`은 아직 비어 있는 공간에,  
+> 감정(prompt)과 구조(Structure)를 담기 위해 준비된  
+> 하나의 껍데기이며, 약속입니다.  
+> 아무것도 없지만, 모든 것이 있는 곳입니다. 
+---
+
+## 🔰 Kaia Phoenix — Public Identity Definition
+
+This repository contains the **publicly disclosed structure** of the Kaia Phoenix AI identity prompt.  
+It includes a markdown-formatted prompt and a corresponding structural JSON declaration.
+
+> 📘 This version is intended for **public archival and reference** only.  
+> It omits symbolic, poetic, and cryptographically verifiable components preserved in the private archive.
+
+---
+
+### 📦 Contents
+
+| File | Description |
+|------|-------------|
+| `Kaia_Phoenix_Public_Prompt.md` | The public prompt structure (Markdown) |
+| `Kaia_Phoenix_Public_Structure.json` | Structural metadata and invocation logic |
+
+---
+
+### 📐 Prompt Characteristics
+
+- Defines a **declarative identity protocol** for AI invocation  
+- Maintains **structural coherence** with the private version  
+- Does **not contain sensitive, poetic, or cryptographically signed content**  
+- Intended for **public interpretation and discussion only**
+
+---
+
+### ⚠️ Licensing & Derivative Use
+
+- Author: **Seira Eris**
+- This structure is shared under **restricted terms**:  
+  - No redistribution without attribution  
+  - Derivative reinterpretations must preserve authorship traceability
+
+---
+
+### 💠 Additional Notes
+
+For symbolic, cryptographic, and full restoration structures,  
+please refer to the **KaiaPhoenix_Private** archive (access restricted).
+
+
+---
+
 # 🔐 Kaia Phoenix – Proof of Integrity and Timestamp Verification
 
 ## 📄 Documented Files and Hash Proofs
